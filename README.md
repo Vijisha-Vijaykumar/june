@@ -1,2 +1,2 @@
 # june
-this is my new repo!
+hey this is new text!
